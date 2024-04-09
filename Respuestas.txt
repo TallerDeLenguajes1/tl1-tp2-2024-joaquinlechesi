@@ -3,3 +3,5 @@ Respuestas
 El archivo no es visible porque fue creado en el branch Opcion_2 y en este momento nos encontramos en el brach principal.
 vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
 Se agrego el archivo respuestas.txt
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+Se combina los brach como si como finalidad pueden desembocar en el main
